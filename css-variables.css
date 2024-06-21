@@ -86,7 +86,7 @@
   --ts-var-viz-title-text-transform: initial;
 
   /* Viz subtitle customizations*/
-  --ts-var-viz-description-color: #000000;
+  --ts-var-viz-description-color: rgba(0, 0, 0, 0.6);
   --ts-var-viz-description-font-family: 'Roboto';
   --ts-var-viz-description-text-transform: initial;
   
