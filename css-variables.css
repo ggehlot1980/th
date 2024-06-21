@@ -16,6 +16,13 @@
 
 @font-face {
   font-family: 'Roboto';
+  src: url('https://ggehlot1980.github.io/fonts/Roboto-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
   src: url('https://ggehlot1980.github.io/th/fonts/Roboto-Bold.ttf');
   font-weight: 700;
   font-style: normal;
@@ -79,8 +86,8 @@
   --ts-var-viz-title-text-transform: initial;
 
   /* Viz subtitle customizations*/
-  --ts-var-viz-description-color: #A4A4A3;
-  --ts-var-viz-description-font-family: initial;
+  --ts-var-viz-description-color: #000000;
+  --ts-var-viz-description-font-family: 'Roboto';
   --ts-var-viz-description-text-transform: initial;
   
   /* Viz area customizations*/
