@@ -36,7 +36,7 @@
 
   --ts-var-root-background: initial;
   --ts-var-root-color: initial;
-  --ts-var-root-font-family: Roboto;
+  --ts-var-root-font-family: 'Roboto';
   --ts-var-root-text-transform: initial;
 
   /******** Nav bar ********/
@@ -75,7 +75,7 @@
   /******** Visualizations ********/
   /* Viz title customizations*/
   --ts-var-viz-title-color: #305080;
-  --ts-var-viz-title-font-family: Roboto;
+  --ts-var-viz-title-font-family: 'Roboto';
   --ts-var-viz-title-text-transform: initial;
 
   /* Viz subtitle customizations*/
